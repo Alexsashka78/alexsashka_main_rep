@@ -13,5 +13,5 @@ build/
 # Игнорировать файл doc/notes.txt, но не файл doc/server/arch.txt
 doc/*.txt
 
-# Игнорировать все .txt файлы в каталоге doc/
-doc/**/*.txt
+# Игнорировать все .txt файлы в 
+**/*.txt
